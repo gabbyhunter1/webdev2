@@ -1,8 +1,8 @@
 <?php
 // Подключение к базе данных
-$dsn = 'mysql:host=localhost;dbname=u68648;charset=utf8';
-$username = 'u68648';
-$password = '7759086';
+$dsn = 'mysql:host=localhost;dbname=u68645;charset=utf8';
+$username = 'u68645';
+$password = '4979729';
 
 try {
     $pdo = new PDO($dsn, $username, $password);
